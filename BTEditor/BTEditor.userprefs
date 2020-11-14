@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{1DA3E8B0-0EDA-DAF2-C2A6-8C7A079CB8CF}|Unity">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BehaviourTree/ActionNode/ActionSpeedUp.cs">
+    <Files>
+      <File FileName="Assets/BehaviourTree/ActionNode/ActionSpeedUp.cs" Line="17" Column="4" />
+      <File FileName="Assets/BehaviourTree/ConditionNode/ConditionCheckNearbyEnemy.cs" Line="10" Column="3" />
+      <File FileName="Assets/BehaviourTree/ConditionNode/ConditionCheckNearbyHugeScore.cs" Line="7" Column="44" />
+      <File FileName="Assets/BehaviourTree/CompositeNode/BNodeIterator.cs" Line="8" Column="9" />
+      <File FileName="Assets/BehaviourTree/ActionNode/ActionRotateReverse.cs" Line="7" Column="34" />
+      <File FileName="Assets/BehaviourTree/ActionNode/ActionMoveToTargetPos.cs" Line="7" Column="36" />
+      <File FileName="Assets/BehaviourTree/ActionNode/ActionWait.cs" Line="7" Column="25" />
+      <File FileName="Assets/BehaviourTree/ActionNode/ActionRandomRotate.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
