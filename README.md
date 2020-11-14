@@ -12,5 +12,5 @@ XTween：一个封装了各种2d常用动画，移动，缩放，旋转，改变
 对动画曲线可以自定义，比如对自带的EaseInOut曲线不满意的话，就可以创建自定义曲线。  
 
 
-BTEditor：一个行为树编辑器，实现了基本的功能，能够增删改节点，最终导出json文件。
+BTEditor：一个提供策划使用的行为树编辑器，实现了基本的功能，能够增删改节点，最终导出json文件。
 效果如图：![Image text](https://github.com/arBao/SomeTools/blob/master/BTEditor/example.png)  
