@@ -10,3 +10,7 @@ XTween：一个封装了各种2d常用动画，移动，缩放，旋转，改变
 可以在每一个动画步骤中插入事件。  
 可以把动画组合成group，实现动画序列，组合方式分为并行和串行。group也可以和单个动画或者另外一个group组合成group。  
 对动画曲线可以自定义，比如对自带的EaseInOut曲线不满意的话，就可以创建自定义曲线。  
+
+
+BTEditor：一个行为树编辑器，实现了基本的功能，能够增删改节点，最终导出json文件。
+效果如图：![Image text](https://github.com/arBao/SomeTools/blob/master/BTEditor/example.png)  
